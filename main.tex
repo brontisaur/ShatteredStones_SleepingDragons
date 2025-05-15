@@ -1,0 +1,38 @@
+\documentclass[10pt,openany]{book}      % paper size is in preamble.sty
+
+%\usepackage[utf8x]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{pdfpages}
+
+%%%%%%%%%% BOOK INFORMATION %%%%%%%%%%
+\newcommand{\authorname}{C. Venter}
+\newcommand{\booktitle}{Shattered Stones}
+\newcommand{\subtitle}{Let Sleeping Dragons Lie}
+\newcommand{\publisher}{Someone Easy}
+\newcommand{\editionyear}{2025}
+\newcommand{\isbn}{978-3-16-148410-0}   % replace this with your own ISBN
+\title{\booktitle}
+\author{\authorname}
+
+\usepackage{misc/options}
+
+\begin{document}
+\frontmatter
+\includepdf{frontmatter/cover.png}
+\input{frontmatter/titlepage}
+%\input{frontmatter/copyrightpage}
+%\input{frontmatter/preface}
+\input{frontmatter/tocpage}
+
+\mainmatter
+\pagestyle{fancy}
+%\input{content/A_Short_Journey}
+%\input{content/Apothecary}
+%\input{content/Blood_Honey}
+%\input{content/Revenant}
+\input{content/wcrace/chapter1}
+\input{content/wcrace/chapter2}
+\input{content/wcrace/chapter3}
+\input{content/wcrace/chapter4}
+\input{content/wcrace/chapter5}
+\end{document}
