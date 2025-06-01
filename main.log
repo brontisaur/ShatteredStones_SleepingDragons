@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.4.20)  15 MAY 2025 21:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.4.20)  1 JUN 2025 19:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -458,25 +458,18 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
  [2
 
-]) (./content/wcrace/chapter1.tex
+]) (./content/wowinter/surface.tex
 Chapter I.
+LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' will be
+(Font)              scaled to size 17.995pt on input line 3.
+LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' will be
+(Font)              scaled to size 25.61574pt on input line 3.
+Package lettrine.sty Info: Targeted height = 17.995pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 17.99503pt (Tiffany);
+(lettrine.sty)             reported on input line 3.
 
-Underfull \hbox (badness 1668) in paragraph at lines 9--10
-\T1/EBGaramond-OsF/m/it/10 (+10) phys-i-cal de-scrip-tions from re-li-able sources that claim Drag-ons' scales are coated
- []
-
-
-Underfull \hbox (badness 1527) in paragraph at lines 9--10
-\T1/EBGaramond-OsF/m/it/10 (+10) ing as melo-dra-matic as `...the fin-ger-prints of those dev-ils they have em-braced...'
- []
-
-
-Underfull \hbox (badness 1874) in paragraph at lines 9--10
-\T1/EBGaramond-OsF/m/it/10 (+10) (Ildis, S.R. 213) and `...that nat-u-ral con-se-quence of evil magic, where even one's
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 9--10
+Underfull \hbox (badness 10000) in paragraph at lines 3--6
 
  []
 
@@ -486,29 +479,40 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--12
  []
 
 
-Underfull \hbox (badness 1117) in paragraph at lines 14--15
-\T1/EBGaramond-OsF/m/it/10 (+10) and re-mains read-ily pro-vide, and then mete out co-her-ent ex-pla-na-tions based on
- []
-
-
-Underfull \hbox (badness 1412) in paragraph at lines 14--15
-\T1/EBGaramond-OsF/m/it/10 (+10) com-mon-al-ity. For in-stance, this ques-tion of wax can very quickly be re-solved by
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 14--15
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 18--19
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
 
  []
 
-LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' will be
-(Font)              scaled to size 17.995pt on input line 24.
-LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' will be
-(Font)              scaled to size 25.61574pt on input line 24.
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+
+ []
+
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -517,313 +521,52 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 ]
-Package lettrine.sty Info: Targeted height = 17.995pt
-(lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 17.99503pt (Tiffany);
-(lettrine.sty)             reported on input line 24.
-
-Underfull \hbox (badness 10000) in paragraph at lines 24--29
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 30--35
+Underfull \hbox (badness 10000) in paragraph at lines 32--35
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 36--42
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 44--51
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
 
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [2]
-Underfull \hbox (badness 10000) in paragraph at lines 52--56
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 57--62
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 63--68
+Underfull \hbox (badness 10000) in paragraph at lines 44--48
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 69--74
+Underfull \hbox (badness 10000) in paragraph at lines 49--52
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--80
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
 
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [3]
-Underfull \hbox (badness 10000) in paragraph at lines 81--85
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 86--94
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 95--100
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 101--109
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [4]
-Underfull \hbox (badness 10000) in paragraph at lines 110--115
-
- []
-
-
-Underfull \hbox (badness 1331) in paragraph at lines 121--127
-\T1/EBGaramond-OsF/m/n/10 (+10) that his for-mer stu-dent, now col-lab-o-ra-tor, had proven to be. While his so-cial
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 121--127
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 128--136
-
- []
-
-[5]
-Underfull \hbox (badness 10000) in paragraph at lines 137--144
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 145--150
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 151--156
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [6]
-Underfull \hbox (badness 10000) in paragraph at lines 157--163
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 164--174
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [7]
-Underfull \hbox (badness 10000) in paragraph at lines 181--184
-
- []
-
-
-Underfull \hbox (badness 1142) in paragraph at lines 185--191
-\T1/EBGaramond-OsF/m/n/10 (+10) a sin-gle horse-drawn cart or a bustling group of pedes-tri-ans at a time, and in
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 185--191
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 192--193
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 194--196
-
- []
-
-
-Underfull \hbox (badness 3657) in paragraph at lines 197--202
-[]\T1/EBGaramond-OsF/m/n/10 (+10) Presently, Tiffany ar-rived at her hos-tel. It was a tall, nar-row, white-washed
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 197--202
-
- []
-
-[8]
-Underfull \hbox (badness 10000) in paragraph at lines 203--206
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 207--210
-
- []
-
-
-Underfull \hbox (badness 2080) in paragraph at lines 207--210
-\T1/EBGaramond-OsF/m/it/10 (+10) Pri-ori's sea-sonal geo-magnetic in-flu-ence on intention-activated de-vices', has been
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 207--210
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 211--212
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 213--214
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 215--216
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 217--218
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 219--223
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 224--228
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 229--230
-
- []
-
-) (./content/wcrace/chapter2.tex [9]
-Chapter II.
-Package lettrine.sty Info: Targeted height = 17.995pt
-(lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 17.22273pt (An);
-(lettrine.sty)             reported on input line 6.
-
-Underfull \hbox (badness 10000) in paragraph at lines 6--10
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 11--16
-
- []
-
-[10
-
-]
-Underfull \hbox (badness 1132) in paragraph at lines 17--22
-[]\T1/EBGaramond-OsF/m/n/10 (+10) Henry shifted his weight fully onto his left leg and nocked an ar-row, ea-ger
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 17--22
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 23--26
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 27--33
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 34--36
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [11]
-Underfull \hbox (badness 2073) in paragraph at lines 37--38
-[]\T1/EBGaramond-OsF/m/n/10 (+10) An ar-row loosed ma-te-ri-alised his feel-ings, the shaft quiv-er-ing as the ar-row
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 37--38
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 39--40
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 41--44
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 45--46
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 47--52
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 53--55
-
- []
-
-
-Underfull \hbox (badness 1394) in paragraph at lines 56--58
-\T1/EBGaramond-OsF/m/n/10 (+10) the taller man's Adam's ap-ple. Henry's fin-gers closed around the man's neck
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 56--58
+Underfull \hbox (badness 10000) in paragraph at lines 55--58
 
  []
 
@@ -833,963 +576,42 @@ Underfull \hbox (badness 10000) in paragraph at lines 59--60
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [12]
-Underfull \hbox (badness 10000) in paragraph at lines 61--66
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 67--70
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 71--75
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 76--79
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 80--85
+Underfull \hbox (badness 10000) in paragraph at lines 61--65
 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [13]
-Underfull \hbox (badness 1558) in paragraph at lines 86--89
-\T1/EBGaramond-OsF/m/n/10 (+10) ingress point, she smiled in sat-is-fac-tion. The ar-row had pierced the bark and
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 86--89
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 90--95
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 96--100
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 101--105
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [14]
-Underfull \hbox (badness 10000) in paragraph at lines 106--109
-
- []
-
-
-Underfull \hbox (badness 1102) in paragraph at lines 110--119
-\T1/EBGaramond-OsF/m/n/10 (+10) tug. He stepped back, ar-row in hand, as Raine perked up with her tap spout
- []
-
-
-Underfull \hbox (badness 1248) in paragraph at lines 110--119
-\T1/EBGaramond-OsF/m/n/10 (+10) and mal-let, gen-tly tap-ping the spout into the open-ing and busily prepar-ing a
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 110--119
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 120--125
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 126--131
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [15]
-Underfull \hbox (badness 10000) in paragraph at lines 132--139
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 140--141
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 142--146
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 147--152
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 153--159
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [16]
-Underfull \hbox (badness 10000) in paragraph at lines 160--162
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 163--169
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 170--175
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 176--177
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [17]
-Underfull \hbox (badness 10000) in paragraph at lines 178--181
-
- []
-
-
-Underfull \hbox (badness 1527) in paragraph at lines 182--193
-\T1/EBGaramond-OsF/m/n/10 (+10) ``Road rash, we were chas-ing some poach-ers to-day," Raine ex-plained, Os-thryn
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 182--193
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 194--203
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [18]
-Underfull \hbox (badness 10000) in paragraph at lines 204--210
-
- []
-
-
-Underfull \hbox (badness 1038) in paragraph at lines 211--214
-\T1/EBGaramond-OsF/m/n/10 (+10) The ta-ble erupted in easy din-ner-time dis-cus-sion, Henry and Raine al-ter-nat-ing
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 211--214
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 215--219
-
- []
-
-) (./content/wcrace/chapter3.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [19] [20]
-Chapter III.
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--7
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 8--9
-
- []
-
-Package lettrine.sty Info: Targeted height = 17.995pt
-(lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 17.99503pt (The);
-(lettrine.sty)             reported on input line 11.
-
-Underfull \hbox (badness 10000) in paragraph at lines 11--15
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 16--20
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [21
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 21--27
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 28--33
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 34--39
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--44
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [22]
-Underfull \hbox (badness 10000) in paragraph at lines 45--51
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 52--59
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 60--67
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--75
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [23]
-Underfull \hbox (badness 10000) in paragraph at lines 76--82
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 83--84
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 85--88
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 89--95
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [24]
-Underfull \hbox (badness 10000) in paragraph at lines 96--97
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 102--103
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 104--105
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 106--107
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 108--109
-
- []
-
-[25]
-Underfull \hbox (badness 3250) in paragraph at lines 110--111
-\T1/EBGaramond-OsF/m/it/10 (+10) sto-ries. Other as-pects of folk-lore, such as treasure-hoarding ten-den-cies, were not
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 110--111
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 112--113
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 114--121
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 122--126
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 127--134
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [26]
-Underfull \hbox (badness 10000) in paragraph at lines 135--142
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 143--149
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 150--155
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 156--161
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [27]
-Underfull \hbox (badness 10000) in paragraph at lines 162--171
-
- []
-
-
-Underfull \hbox (badness 2050) in paragraph at lines 172--180
-\T1/EBGaramond-OsF/m/n/10 (+10) the town square. A con-sis-tent, low-level hum of ca-sual con-ver-sa-tions fil-tered
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 172--180
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [28]
-Underfull \hbox (badness 10000) in paragraph at lines 181--185
-
- []
-
-
-Underfull \hbox (badness 1924) in paragraph at lines 186--192
-\T1/EBGaramond-OsF/m/n/10 (+10) con-ver-sa-tions and the faint sound of stringed in-stru-ments lov-ingly strummed
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 186--192
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 193--197
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 198--203
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 204--210
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [29]
-Underfull \hbox (badness 10000) in paragraph at lines 211--214
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 215--221
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 222--225
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 226--229
-
- []
-
-
-Underfull \hbox (badness 1688) in paragraph at lines 230--238
-\T1/EBGaramond-OsF/m/n/10 (+10) to her move-ments than Tiffany could have imag-ined. She was breath-tak-ingly
- []
-
-
-Underfull \hbox (badness 2253) in paragraph at lines 230--238
-\T1/EBGaramond-OsF/m/n/10 (+10) beau-ti-ful, the lines defin-ing her face invit-ing Tiffany into the mem-o-ries that
- []
-
-
-Underfull \hbox (badness 1168) in paragraph at lines 230--238
-\T1/EBGaramond-OsF/m/n/10 (+10) gar-ment, like-wise stood in stark con-trast with the hum-ble cot-tage sur-rounded
- []
-
-
-Underfull \hbox (badness 2042) in paragraph at lines 230--238
-\T1/EBGaramond-OsF/m/n/10 (+10) by small live-stock. It was a deep emer-ald green, match-ing her ex-pres-sive and
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 230--238
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [30]
-Underfull \hbox (badness 1107) in paragraph at lines 239--246
-\T1/EBGaramond-OsF/m/n/10 (+10) won-der-ful things about you," Os-thryn be-gan, tow-er-ing over the much smaller
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 239--246
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 247--250
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 251--256
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [31]
-Underfull \hbox (badness 10000) in paragraph at lines 257--263
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 264--267
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 268--275
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [32]
-Underfull \hbox (badness 10000) in paragraph at lines 276--277
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 278--282
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 283--285
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 286--293
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [33]
-Underfull \hbox (badness 1242) in paragraph at lines 294--296
-[]\T1/EBGaramond-OsF/m/n/10 (+10) Tiffany was grate-ful for Raine's think-ing with the tea and tartlets, and was
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 294--296
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 297--301
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 302--309
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 310--311
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 312--320
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [34]
-Underfull \hbox (badness 2556) in paragraph at lines 321--324
-[]\T1/EBGaramond-OsF/m/n/10 (+10) Matches. These were or-di-nary, old-school, un-en-hanced oil lamps. Tiffany's
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 321--324
-
- []
-
-) (./content/wcrace/chapter4.tex [35]
-Chapter IV.
-
-Underfull \hbox (badness 10000) in paragraph at lines 8--9
-
- []
-
-Package lettrine.sty Info: Targeted height = 17.995pt
-(lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 16.4837pt (Raine);
-(lettrine.sty)             reported on input line 11.
-
-Underfull \hbox (badness 1769) in paragraph at lines 11--15
-[][]\T1/EBGaramond-OsF/m/sc/10/100ls (+10) had de-ter-mined that the best cure for stiff
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 11--15
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 16--22
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 23--28
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [36
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 29--33
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 34--39
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--48
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [37]
-Underfull \hbox (badness 10000) in paragraph at lines 49--50
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 51--58
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 59--62
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 63--72
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [38]
-Underfull \hbox (badness 10000) in paragraph at lines 73--76
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--82
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 83--89
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [39]
-Underfull \hbox (badness 10000) in paragraph at lines 103--107
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 108--113
-
- []
-
-[40]
-Underfull \hbox (badness 10000) in paragraph at lines 114--121
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 122--125
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 126--129
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [41]
-Underfull \hbox (badness 10000) in paragraph at lines 130--131
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 132--138
-
- []
-
-
-Underfull \hbox (badness 2237) in paragraph at lines 139--141
-[]\T1/EBGaramond-OsF/m/n/10 (+10) ``I doubt that mas-sive as-sump-tion was any-where in your pro-posal," Raine
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 139--141
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 142--144
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [42]
-Underfull \hbox (badness 10000) in paragraph at lines 145--151
-
- []
-
-
-Underfull \hbox (badness 1043) in paragraph at lines 152--159
-\T1/EBGaramond-OsF/m/n/10 (+10) Raine told Tiffany mourn-fully. She watched Henry des-per-ately cir-cle the tree,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 152--159
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 160--163
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 164--169
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [43]
-Underfull \hbox (badness 1762) in paragraph at lines 176--179
-\T1/EBGaramond-OsF/m/n/10 (+10) Where pa-trons of Duck-bill Inn would hap-pily bring their young chil-dren to
- []
-
-
-Underfull \hbox (badness 1028) in paragraph at lines 176--179
-\T1/EBGaramond-OsF/m/n/10 (+10) run and play be-tween ta-bles while ma and pa shared a good lazy, greasy meal
- []
-
-
-Underfull \hbox (badness 1831) in paragraph at lines 176--179
-\T1/EBGaramond-OsF/m/n/10 (+10) and a pint or two, The Kelpie's Bri-dle was de-cid-edly more ex-clu-sive to men
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 176--179
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 180--185
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 186--191
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 192--198
-
- []
-
-[44]
-Underfull \hbox (badness 10000) in paragraph at lines 199--207
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 208--214
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [45]
-Underfull \hbox (badness 10000) in paragraph at lines 215--216
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 217--219
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 220--226
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 233--238
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 239--241
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 242--249
-
- []
-
-[46]
-Underfull \hbox (badness 10000) in paragraph at lines 250--255
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 256--257
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 258--261
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 262--263
-
- []
-
-) (./content/wcrace/chapter5.tex [47]
-Chapter V.
-
-Underfull \hbox (badness 10000) in paragraph at lines 14--15
-
- []
-
-Package lettrine.sty Info: Targeted height = 17.995pt
-(lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 17.99503pt (The days);
-(lettrine.sty)             reported on input line 16.
-
-Underfull \hbox (badness 4279) in paragraph at lines 16--18
-[][]\T1/EBGaramond-OsF/m/sc/10/100ls (+10) passed qui-etly[] \T1/EBGaramond-OsF/m/n/10 (+10) enough for Tiffany once she had
- []
-
-
-Underfull \hbox (badness 1681) in paragraph at lines 16--18
-\T1/EBGaramond-OsF/m/n/10 (+10) dis-ap-pear-ance, but Raine was not forth-com-ing with any in-for-ma-tion. Tiffany
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 16--18
-
- []
-
-
-Underfull \hbox (badness 2582) in paragraph at lines 19--20
-[]\T1/EBGaramond-OsF/m/n/10 (+10) ``Do you know tales of kelpies, Tiffany? They are fae-creatures, wi-ley and
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 19--20
-
- []
-
-[48
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 21--23
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 24--27
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 28--30
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 31--32
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 45--52
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [49]
-Underfull \hbox (badness 10000) in paragraph at lines 53--58
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 59--61
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 62--64
+ [2]
+Underfull \hbox (badness 10000) in paragraph at lines 66--67
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 65--69
+Underfull \hbox (badness 10000) in paragraph at lines 68--70
 
  []
 
-) [50] (./main.aux)
+) [3] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 7871 strings out of 474222
- 140087 string characters out of 5748733
- 1935975 words of memory out of 5000000
- 29781 multiletter control sequences out of 15000+600000
- 639335 words of font info for 192 fonts, out of 8000000 for 9000
+ 7740 strings out of 474222
+ 136253 string characters out of 5748733
+ 1931975 words of memory out of 5000000
+ 29757 multiletter control sequences out of 15000+600000
+ 628727 words of font info for 127 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  94i,17n,107p,1067b,520s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Bold.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Italic.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Regular.pfb>
-Output written on main.pdf (54 pages, 18745181 bytes).
+</usr/share/texlive/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Italic.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Regular.pfb>
+Output written on main.pdf (7 pages, 18579061 bytes).
 PDF statistics:
- 205 PDF objects out of 1000 (max. 8388607)
- 136 compressed objects within 2 object streams
+ 49 PDF objects out of 1000 (max. 8388607)
+ 30 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 56848 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 54800 words of extra memory for PDF output out of 61914 (max. 10000000)
 
