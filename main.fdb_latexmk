@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1748898069.29235 "/home/pikkewynn/Documents/Writing/ShatteredStones_SleepingDragons/main.tex" "main.pdf" "main" 1748898071.05355 0
+["pdflatex"] 1748899247.59938 "/home/pikkewynn/Documents/Writing/ShatteredStones_SleepingDragons/main.tex" "main.pdf" "main" 1748899249.37979 0
   "/etc/texmf/web2c/texmf.cnf" 1745150424.31761 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/pikkewynn/Documents/Writing/ShatteredStones_SleepingDragons/main.tex" 1748807893.3162 836 21d62265edc1cdb399ee2d5448da5b9c ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/ebgaramond/ebg_byuyni.enc" 1679344195 3645 7e30a6c2020f6c2e5207ff5bf518ca0f ""
@@ -74,14 +74,14 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1745150455.07842 5472669 54eaf61a88b6b7896ebd0dac973cb29c ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1745150548 8214885 0805d75cc6635d24b4900cc526b679a5 ""
-  "content/wowinter/crystal.tex" 1748898069.08173 13953 4675d370b68a57ba2f91e5badde1e914 ""
+  "content/wowinter/crystal.tex" 1748899247.38626 15870 a68be7dc6aea0ce511839a00123ab534 ""
   "content/wowinter/surface.tex" 1748807817.21176 3037 c2a6b73dae3aae3592aaa4c7f67dcbb0 ""
   "frontmatter/cover.png" 1747337068.70199 9890450 4ab771c92a32cd567f9cfda521a8b78e ""
   "frontmatter/titlepage.tex" 1747336924.77582 424 52558f103f5680bcaf0fc85031be842f ""
   "frontmatter/tocpage.tex" 1747336943.17573 53 f1dd613feb2c13f7889ee6c1d1cce26f ""
-  "main.aux" 1748898070.95481 376 ee25fe9b8d6dcc22b2b9b18998ed3aee "pdflatex"
+  "main.aux" 1748899249.26629 376 c315427b2815d415669d304a142dbe78 "pdflatex"
   "main.tex" 1748807893.3162 836 21d62265edc1cdb399ee2d5448da5b9c ""
-  "main.toc" 1748898070.95581 109 3d727c933d72b2ae90111266558fab59 "pdflatex"
+  "main.toc" 1748899249.26629 109 3d727c933d72b2ae90111266558fab59 "pdflatex"
   "misc/options.sty" 1747337263.1215 1637 8eec50c3c87ab0b5cebc5df6025ee241 ""
   (generated)
   "main.aux"
