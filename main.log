@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2025.6.3)  8 JUN 2025 22:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2025.6.3)  8 JUN 2025 23:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -592,9 +592,42 @@ Underfull \hbox (badness 10000) in paragraph at lines 68--70
 Chapter II.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/sc' will be
 (Font)              scaled to size 14.4pt on input line 3.
-) (./content/wowinter/crystal.tex [4
 
-]
+Underfull \hbox (badness 10000) in paragraph at lines 5--9
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--13
+
+ []
+
+
+Underfull \hbox (badness 1043) in paragraph at lines 14--21
+[]\T1/EBGaramond-OsF/m/n/10 (+10) Any sundry sub-ject, pro-vided that it was re-lated to Al-chem-i-cal sub-jects, the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--29
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4
+
+]) (./content/wowinter/crystal.tex [5]
 Chapter III.
 Package lettrine.sty Info: Targeted height = 17.995pt
 (lettrine.sty)             (for loversize=0, accent excluded),
@@ -638,7 +671,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--28
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [5
+ [6
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 29--31
@@ -698,7 +731,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 62--63
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [6]
+ [7]
 Underfull \hbox (badness 10000) in paragraph at lines 64--65
 
  []
@@ -741,7 +774,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 96--100
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [7]
+ [8]
 Underfull \hbox (badness 10000) in paragraph at lines 101--106
 
  []
@@ -799,7 +832,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 132--133
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [8]
+ [9]
 Underfull \hbox (badness 10000) in paragraph at lines 134--135
 
  []
@@ -847,7 +880,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 169--172
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [9]
+ [10]
 Underfull \hbox (badness 10000) in paragraph at lines 173--175
 
  []
@@ -880,7 +913,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 199--211
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [10]
+ [11]
 Underfull \hbox (badness 1675) in paragraph at lines 212--215
 \T1/EBGaramond-OsF/m/n/10 (+10) [fantasy-equivalent post-doc] seven years her se-nior, was, well... hand-some and
  []
@@ -923,25 +956,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 234--235
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [11]
+ [12]
 Underfull \hbox (badness 10000) in paragraph at lines 239--241
 
  []
 
-) [12] (./main.aux) ) 
+) [13] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 8106 strings out of 476041
- 141790 string characters out of 5793175
+ 8109 strings out of 476041
+ 141874 string characters out of 5793175
  1861388 words of memory out of 6000000
  28241 multiletter control sequences out of 15000+600000
- 592526 words of font info for 168 fonts, out of 8000000 for 9000
+ 592902 words of font info for 170 fonts, out of 8000000 for 9000
  1137 hyphenation exceptions out of 8191
  72i,17n,76p,1081b,516s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Italic.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Regular.pfb>
-Output written on main.pdf (16 pages, 18155763 bytes).
+Output written on main.pdf (17 pages, 18158440 bytes).
 PDF statistics:
- 77 PDF objects out of 1000 (max. 8388607)
- 49 compressed objects within 1 object stream
+ 80 PDF objects out of 1000 (max. 8388607)
+ 51 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  60944 words of extra memory for PDF output out of 61914 (max. 10000000)
 

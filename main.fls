@@ -559,12 +559,12 @@ INPUT ./content/wowinter/the_first_lake.tex
 INPUT content/wowinter/the_first_lake.tex
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/ebgaramond/EBGaramond-Regular-osf-sc-t1.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/ebgaramond/EBGaramond-Regular-osf-sc-t1.tfm
-INPUT ./content/wowinter/crystal.tex
-INPUT content/wowinter/crystal.tex
-INPUT ./content/wowinter/crystal.tex
-INPUT content/wowinter/crystal.tex
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/ebgaramond/EBGaramond-Regular-osf-sc-t1.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/ebgaramond/EBGaramond-Regular-osf-sc-t1--base.tfm
+INPUT ./content/wowinter/crystal.tex
+INPUT content/wowinter/crystal.tex
+INPUT ./content/wowinter/crystal.tex
+INPUT content/wowinter/crystal.tex
 INPUT main.aux
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Italic.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Regular.pfb

@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1749416075.70788 "/home/drakie/Documents/Writing/Shattered_Stones/ShatteredStones_SleepingDragons/main.tex" "main.pdf" "main" 1749416077.42518 0
-  "/home/drakie/Documents/Writing/Shattered_Stones/ShatteredStones_SleepingDragons/main.tex" 1749416073.64773 880 1635e616f28b8cb2d5716aeecda3f5bb ""
+["pdflatex"] 1749418575.349 "/home/drakie/Documents/Writing/Shattered_Stones/ShatteredStones_SleepingDragons/main.tex" "main.pdf" "main" 1749418577.03564 0
+  "/home/drakie/Documents/Writing/Shattered_Stones/ShatteredStones_SleepingDragons/main.tex" 1749416102.65216 880 1635e616f28b8cb2d5716aeecda3f5bb ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/ebgaramond/ebg_byuyni.enc" 1679344195 3645 7e30a6c2020f6c2e5207ff5bf518ca0f ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/ebgaramond/ebg_ljow5q.enc" 1679344195 3064 ad039a5bf6faa075ad3278d742de72a1 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/ebgaramond/ebg_tcdnmr.enc" 1679344195 3038 e164542e716a689948526cfb8c023ec2 ""
@@ -73,13 +73,13 @@
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1748982344 7753797 41750f13287b24bda729e5a45c00c594 ""
   "content/wowinter/crystal.tex" 1748981397.95879 15870 a68be7dc6aea0ce511839a00123ab534 ""
   "content/wowinter/surface.tex" 1748981397.95934 3037 c2a6b73dae3aae3592aaa4c7f67dcbb0 ""
-  "content/wowinter/the_first_lake.tex" 1749416051.4423 147 d67d76742ed9308c342eb8e52d42c700 ""
+  "content/wowinter/the_first_lake.tex" 1749418575.1101 1699 760e50779308946145c80d11c8586d2d ""
   "frontmatter/cover.png" 1748981397.97303 9890450 4ab771c92a32cd567f9cfda521a8b78e ""
   "frontmatter/titlepage.tex" 1748981397.97303 424 52558f103f5680bcaf0fc85031be842f ""
   "frontmatter/tocpage.tex" 1748981397.97303 53 f1dd613feb2c13f7889ee6c1d1cce26f ""
-  "main.aux" 1749416077.30963 756 59b731ded176716aa273e18e2b4adfec "pdflatex"
-  "main.tex" 1749416073.64773 880 1635e616f28b8cb2d5716aeecda3f5bb ""
-  "main.toc" 1749416077.30963 331 576a5b78026c368a080e923cfa460494 "pdflatex"
+  "main.aux" 1749418576.93905 756 709b4677aac7666d5c60e0bfcf27325d "pdflatex"
+  "main.tex" 1749416102.65216 880 1635e616f28b8cb2d5716aeecda3f5bb ""
+  "main.toc" 1749418576.93905 331 1e74459a48345f1eb52d1eed824aa39c "pdflatex"
   "misc/options.sty" 1748981398.03001 1637 8eec50c3c87ab0b5cebc5df6025ee241 ""
   (generated)
   "main.aux"
