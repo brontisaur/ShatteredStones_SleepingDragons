@@ -1,2 +1,4 @@
 \contentsline {chapter}{\numberline {I}Surface}{1}{}%
-\contentsline {chapter}{\numberline {II}Crystal}{4}{}%
+\contentsline {chapter}{\numberline {II}The First Lake (Act 1)}{4}{}%
+\contentsline {section}{\numberline {II.1}On another lonely night in Grosbergan, Tiffany Receives her Letter of Acceptance to the Scope Program}{4}{}%
+\contentsline {chapter}{\numberline {III}Crystal}{5}{}%
