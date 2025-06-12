@@ -1,4 +1,5 @@
 \contentsline {chapter}{\numberline {I}Surface}{1}{}%
 \contentsline {chapter}{\numberline {II}The First Lake (Act 1)}{4}{}%
 \contentsline {section}{\numberline {II.1}On another lonely night in Grosbergan, Tiffany Receives her Letter of Acceptance to the Scope Program}{4}{}%
-\contentsline {chapter}{\numberline {III}Crystal}{6}{}%
+\contentsline {section}{\numberline {II.2}Fucking hell let's move past the bloody introduction and into something a little more interesting. Amid unreliable sailtrains that are hand-waved away by most, Tiffany travels to the Village of Valleyton. Rowan tongue-in-cheek adivses her to drink the wine there.}{6}{}%
+\contentsline {chapter}{\numberline {III}Crystal}{8}{}%
